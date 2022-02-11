@@ -1,0 +1,14 @@
+﻿  init_functions.cpp
+  is_functions.cpp
+E:\backup2021.12.31_win10\E\三上\科目\编译原理\实验1\307班_贾志远_2019211463_上机作业1\源代码\Experiment1\Experiment1\is_functions.cpp(122,15): warning C4018: “>”: 有符号/无符号不匹配
+  judge_functions.cpp
+  main.cpp
+  get_functions.cpp
+E:\backup2021.12.31_win10\E\三上\科目\编译原理\实验1\307班_贾志远_2019211463_上机作业1\源代码\Experiment1\Experiment1\get_functions.cpp(15,16): warning C4018: “<”: 有符号/无符号不匹配
+  add_functions.cpp
+  print_functions.cpp
+E:\backup2021.12.31_win10\E\三上\科目\编译原理\实验1\307班_贾志远_2019211463_上机作业1\源代码\Experiment1\Experiment1\print_functions.cpp(59,20): warning C4018: “<”: 有符号/无符号不匹配
+  process_functions.cpp
+  正在生成代码...
+E:\backup2021.12.31_win10\E\三上\科目\编译原理\实验1\307班_贾志远_2019211463_上机作业1\源代码\Experiment1\Experiment1\get_functions.cpp(628): warning C4715: “get_pattern”: 不是所有的控件路径都返回值
+  Experiment1.vcxproj -> E:\backup2021.12.31_win10\E\三上\科目\编译原理\实验1\307班_贾志远_2019211463_上机作业1\源代码\Experiment1\Debug\Experiment1.exe
